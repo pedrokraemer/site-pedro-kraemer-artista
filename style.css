@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to top, #07464b 0%, #090741 100%);
+    background-size: auto 100vh;
+    color: white;
+    font-family: Arial;
+    height: 100vh;
+    font-size: 20px
+}
+
+.menu {
+    background-color: ;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: rgb(64, 212, 212);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.titulo-site,
+.subtitulo-site {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.subtitulo-site {
+    font-style: italic;
+}
