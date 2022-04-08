@@ -87,6 +87,16 @@ a:hover {
     text-align: center;
 }
 
+.musica-1 img,
+.musica-2 img {
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 20px;
+    width: 100x;
+    height: 100px;
+    text-align: center;
+}
+
 .musica-1 {
     background-color: black;
     padding: 15px;
